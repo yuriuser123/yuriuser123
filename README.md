@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/yuriuser126" target="_blank" rel="noopener noreferrer">
-    <img width="120" src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Animal_Crossing_Icon.svg/120px-Animal_Crossing_Icon.svg.png" alt="동숲 아이콘" />
+    <img width="120" src="https://media.giphy.com/media/3o6Zt8MgUuvSbkZYWc/giphy.gif" alt="동숲 귀여운 GIF" />
   </a>
 </p>
 
